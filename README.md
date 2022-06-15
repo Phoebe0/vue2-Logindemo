@@ -28,6 +28,8 @@ new Vue({
 
 
 直接复制代码到项目运行
+![image](https://user-images.githubusercontent.com/59304678/173772653-d5b8f6dd-a4ee-4ede-aac8-79eef6434cf1.png)
+
 
 **注意：**
 
