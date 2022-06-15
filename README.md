@@ -40,10 +40,10 @@ new Vue({
 
 **为表单关联数据：**
 
-    1. 需要给el-form绑定 `:model属性="data中定义好的对象"`
-    
-    2. 需要给每一个el-input绑定`v-model`属性
-    
-    3. 需要给el-form添加rules属性 `:rules="data中定义的规则对象  并在对象中添加规则"`
-    
-    4. 给el-input所在的form-item 添加`prop`属性，值是校验的字段
+1. 需要给el-form绑定 `:model属性="data中定义好的对象"`
+
+2. 需要给每一个el-input绑定`v-model`属性
+
+3. 需要给el-form添加rules属性 `:rules="data中定义的规则对象  并在对象中添加规则"`
+
+4. 给el-input所在的form-item 添加`prop`属性，值是校验的字段
